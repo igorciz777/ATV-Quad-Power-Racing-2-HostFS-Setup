@@ -18,7 +18,7 @@ https://aluigi.altervista.org/papers/quickbms.zip
 
 ### Get the QuickBMS script provided in this repository.
 
-[atvqpr2.bms](bms/atvqpr2.bms)
+[atvqpr2.bms](bms//atvqpr2.bms)
 
 ### Use QuickBMS with the script to unpack the `ATV.BAH` and `ATV.BAD` files located in the extracted game folder.
 
@@ -48,7 +48,7 @@ See [compatible games table](#compatible-games).
 # Compatible games
 |                     **Name**                      | **Serial** | **Patch**           |
 |:-------------------------------------------------:|:----------:|:-------------------:|
-| ATV Quad Power Racing 2 (USA)                     | SLUS-20570 | [Patch](patches\SLUS-20570_9E1EAE73.pnach)  |
-| ATV Quad Power Racing 2 (Europe)                  | SLES-50850 | [Patch](patches\SLES-50850_9E1EAE73.pnach)  |
-| ATV Quad Power Racing 2 (Demo)                    | SLED-51364 | [Patch](patches\SLED-51364_E0AA1E96.pnach)  |
-| ATV Quad Power Racing 2 (Beta)                    | SLUS-20570 | [Patch](patches\SLUS-20570_567C6358.pnach)  |
+| ATV Quad Power Racing 2 (USA)                     | SLUS-20570 | [Patch](patches//SLUS-20570_9E1EAE73.pnach)  |
+| ATV Quad Power Racing 2 (Europe)                  | SLES-50850 | [Patch](patches//SLES-50850_9E1EAE73.pnach)  |
+| ATV Quad Power Racing 2 (Demo)                    | SLED-51364 | [Patch](patches//SLED-51364_E0AA1E96.pnach)  |
+| ATV Quad Power Racing 2 (Beta)                    | SLUS-20570 | [Patch](patches//SLUS-20570_567C6358.pnach)  |
