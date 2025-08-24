@@ -1,0 +1,10 @@
+gametitle=ATV Quad Power Racing 2 [SLES-50850] (PAL)
+
+[HostFS Patch]
+author=github.com/igorciz777
+description=Use host filesystem for loading files
+
+patch=0,EE,20301DE0,extended,74736F68
+patch=0,EE,20301DE4,extended,005C3A30
+patch=0,EE,20340C88,extended,74736F68
+patch=0,EE,20340C8C,extended,00000030

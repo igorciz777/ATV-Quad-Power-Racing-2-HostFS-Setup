@@ -1,0 +1,10 @@
+gametitle=ATV Quad Power Racing 2 [SLUS-20570] (Beta)
+
+[HostFS Patch]
+author=github.com/igorciz777
+description=Use host filesystem for loading files
+
+patch=0,EE,202E8D60,extended,74736F68
+patch=0,EE,202E8D64,extended,005C3A30
+patch=0,EE,2032F2D8,extended,74736F68
+patch=0,EE,2032F2DC,extended,00000030
