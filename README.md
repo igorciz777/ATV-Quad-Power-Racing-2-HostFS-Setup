@@ -1,6 +1,9 @@
 # ATV Quad Power Racing 2 HostFS Setup
 Patches and setup required to use Host Filesystem in ATV Quad Power Racing 2 (Playstation 2)
 
+>[!WARNING]
+>The way patches setup HostFS ingame is probably not the best/intended way so expect lags/crashes
+
 # Instructions
 ## Extract the game files to a folder.
 
